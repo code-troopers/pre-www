@@ -41,7 +41,7 @@
     <item>
       <title>Android</title>
       <link>/tags/android/</link>
-      <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/android/</guid>
       <description></description>
@@ -323,6 +323,15 @@
       <pubDate>Mon, 21 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>/tags/intellj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ios</title>
+      <link>/tags/ios/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ios/</guid>
       <description></description>
     </item>
     
@@ -683,6 +692,15 @@
       <pubDate>Fri, 15 May 2015 00:00:00 +0000</pubDate>
       
       <guid>/tags/vimrc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>/tags/web/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/web/</guid>
       <description></description>
     </item>
     

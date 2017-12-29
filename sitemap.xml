@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/fizzer.html</loc>
+    <lastmod>2017-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/navigtours.html</loc>
+    <lastmod>2017-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/nowly.html</loc>
+    <lastmod>2017-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/toosla.html</loc>
+    <lastmod>2017-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2016/12/21/stages-2017/</loc>
     <lastmod>2016-12-21T00:00:00+00:00</lastmod>
   </url>
@@ -272,7 +292,7 @@
   
   <url>
     <loc>/tags/android/</loc>
-    <lastmod>2016-10-03T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -319,7 +339,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2016-12-21T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -476,6 +496,12 @@
   <url>
     <loc>/tags/intellj/</loc>
     <lastmod>2014-04-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ios/</loc>
+    <lastmod>2017-12-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -726,8 +752,20 @@
   </url>
   
   <url>
+    <loc>/tags/web/</loc>
+    <lastmod>2017-12-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/windows/</loc>
     <lastmod>2014-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/work/</loc>
+    <lastmod>2017-12-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

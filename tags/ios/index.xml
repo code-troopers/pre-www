@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ios on Code-Troopers - Vous avez une idée, nous la réalisons</title>
+    <link>/tags/ios/</link>
+    <description>Recent content in Ios on Code-Troopers - Vous avez une idée, nous la réalisons</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 29 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Navig&#39;Tours</title>
+      <link>/navigtours.html</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/navigtours.html</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Les applications gratuites natives Android et iOS. Navig&amp;#8217;Tours permet de consulter les horaires,
+lignes et arrêts des bus et tram de Tours (réseau Fil Bleu).
+&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
